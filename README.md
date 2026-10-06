@@ -19,9 +19,7 @@ AI-Driven Vortex Engine based on 720 Double Cover 2:1 Lock Technology. Capable o
 * Numba
 
 ## Execution
-Run the core simulation script:
-```bash
-python vortex_solver.py
+
 # 2:1 Lock Vortex Engine
 
 AI-Driven Vortex Engine based on 720 Double Cover 2:1 Lock Technology. Capable of simulating complex structures and ecosystem dynamics at a galactic scale.
@@ -35,10 +33,6 @@ AI-Driven Vortex Engine based on 720 Double Cover 2:1 Lock Technology. Capable o
 Run the core simulation script:
 ```bash
 python vortex_solver.py
-git init
-git add .
-git commit -m "Initial commit: 2:1 Lock Vortex Engine core solver"
-git branch -M main
-git remote add origin https://github.com/MTDismuke/2-1-lock-vortex-engine.git
-git push -u origin main
+
+
 
