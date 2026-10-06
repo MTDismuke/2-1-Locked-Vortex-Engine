@@ -10,4 +10,4 @@ AI-Driven Vortex Engine based on 720 Double Cover 2:1 Lock Technology. Capable o
 ## Execution
 Run the core simulation script:
 ```bash
-python vortex_solver.py
+vortex_solver.py
